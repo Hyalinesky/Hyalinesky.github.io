@@ -31,13 +31,13 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 
   **Xu Chu**\*, Zhijie Tan\*, Hanlin Xue, Guanyu Wang, Tong Mo, Weiping Li
 
-  *In Proc. of The 63rd Annual Meeting of the Association for Computational Linguistics (ACL).*
+  *In Proc. of The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**).*
 
 - [Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning](https://arxiv.org/abs/2501.10010) ![CCF B](https://img.shields.io/badge/CCF-B-green?style=flat-square) ![ICASSP](https://img.shields.io/badge/ICASSP-2025-blue?style=flat-square)  
 
   **Xu Chu**\*, Hanlin Xue\*, Bingce Wang, Xiaoyang Liu, Weiping Li, Tong Mo, Tuoyu Feng, Zhijie Tan
 
-  *In Proc. of ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).*
+  *In Proc. of ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**).*
   
 # ✏️ Preprints
 - [GraphSOS: Graph Sampling and Order Selection to Help LLMs Understand Graphs Better](https://arxiv.org/abs/2501.14427)
