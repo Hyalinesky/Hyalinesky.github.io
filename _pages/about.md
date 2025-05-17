@@ -33,7 +33,7 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 
 *In Proc. of The 63rd Annual Meeting of the Association for Computational Linguistics (ACL).*
 
-[Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning](https://arxiv.org/abs/2501.10010)[CCF B](https://img.shields.io/badge/CCF-B-green?style=flat-square)
+[Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning](https://arxiv.org/abs/2501.10010) ![CCF B](https://img.shields.io/badge/CCF-B-green?style=flat-square)
 
 **Xu Chu***, Hanlin Xue*, Bingce Wang, Xiaoyang Liu, Weiping Li, Tong Mo, Tuoyu Feng, Zhijie Tan
 
