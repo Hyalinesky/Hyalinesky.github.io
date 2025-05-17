@@ -38,15 +38,21 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
   **Xu Chu**\*, Hanlin Xue\*, Bingce Wang, Xiaoyang Liu, Weiping Li, Tong Mo, Tuoyu Feng, Zhijie Tan
 
   *In Proc. of ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).*
-
   
+# ✏️ Preprints
+- [GraphSOS: Graph Sampling and Order Selection to Help LLMs Understand Graphs Better](https://arxiv.org/abs/2501.14427)
+
+  **Xu Chu**\*, Hanlin Xue\*, Zhijie Tan, Bingce Wang, Tong Mo, Weiping Li
+
+- [Order matters: Exploring order sensitivity in multimodal large language models](https://arxiv.org/abs/2410.16983)
+  
+  Zhijie Tan\*, **Xu Chu**\*, Weiping Li, Tong Mo
 
 # 📖 Educations
 - *2023.09 – Present*: Master's student in Software Engineering under the supervision of Prof. Weiping Li at **Peking University**.
 - *2019.09 – 2023.07*: Bachelor of Engineering, School of Electronic Information, **Wuhan University**.
 
 # 💻 Internships
-### 💻 Internships  
 - *2024.01 – 2024.05*, [NIO Shanghai](https://www.nio.cn/), China.  
   Contributed to the development of the LLM framework **BI Agent**, primarily responsible for intent understanding, task routing, and reasoning using LLMs.  
 
