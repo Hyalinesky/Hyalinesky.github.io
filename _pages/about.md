@@ -27,13 +27,13 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 - *2024.12*: &nbsp;🎉🎉 Our paper *"Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions"* was accepted to **ICASSP 2025**!
 
 # 📝 Selected Publications 
-- [Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains](https://arxiv.org/abs/2501.14431) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL%20SEC-2025-blue?style=flat-square)  
+- [Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains](https://arxiv.org/abs/2501.14431) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
 
   **Xu Chu***, Zhijie Tan*, Hanlin Xue, Guanyu Wang, Tong Mo, Weiping Li
 
   *In Proc. of The 63rd Annual Meeting of the Association for Computational Linguistics (ACL).*
 
-- [Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning](https://arxiv.org/abs/2501.10010) ![CCF B](https://img.shields.io/badge/CCF-B-green?style=flat-square) ![ICASSP](https://img.shields.io/badge/ICASSP%20SEC-2025-blue?style=flat-square)  
+- [Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning](https://arxiv.org/abs/2501.10010) ![CCF B](https://img.shields.io/badge/CCF-B-green?style=flat-square) ![ICASSP](https://img.shields.io/badge/ICASSP-2025-blue?style=flat-square)  
 
   **Xu Chu***, Hanlin Xue*, Bingce Wang, Xiaoyang Liu, Weiping Li, Tong Mo, Tuoyu Feng, Zhijie Tan
 
