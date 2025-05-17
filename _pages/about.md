@@ -52,18 +52,3 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 
 - *2024.01 – Present*, [Baidu](https://ir.baidu.com/company-overview), China.  
   Participated in pre-training of **search LLM** and post-training with reinforcement learning for **query rewriting LLM**. Primarily focused on *compressing LLM chains of thought* to reduce inference time for query rewriting LLM.
-
-# 💬 Visitor Tracking
-<div style="width: 50%; margin: 0 auto;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vny7LZR-qTHB5_BivFxjhVHfbjM8VkCSzM0Z8Tj53ns&cl=ffffff&w=a"></script>
-</div>
-
----
-<div style="text-align: center; margin-top: 20px;">
-    <i>Updated: 
-    <script>
-        var d = new Date(document.lastModified);
-        document.write(d.toLocaleString('en-US', { month: 'short', year: 'numeric' }), ' ');
-    </script>
-    </i>
-</div>
