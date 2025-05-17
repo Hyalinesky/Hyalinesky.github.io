@@ -26,7 +26,7 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 - *2024.12*: &nbsp;🎉🎉 Our paper *"Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning"* was accepted to **ICASSP 2025**!
 - *2024.12*: &nbsp;🎉🎉 Our paper *"Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions"* was accepted to **ICASSP 2025**!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 - [Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains](https://arxiv.org/abs/2501.14431) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) 
 
   **Xu Chu***, Zhijie Tan*, Hanlin Xue, Guanyu Wang, Tong Mo, Weiping Li*
@@ -38,6 +38,8 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
   **Xu Chu***, Hanlin Xue*, Bingce Wang, Xiaoyang Liu, Weiping Li, Tong Mo, Tuoyu Feng, Zhijie Tan*
 
   *In Proc. of ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).*
+
+  
 
 # 📖 Educations
 - *2023.09 – Present*: Master's student under the supervision of Prof.Weiping Li at **Peking University**.
