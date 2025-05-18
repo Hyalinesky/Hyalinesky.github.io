@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a second-year Master's student in **Software Engineering** at **Peking University**. Prior to this, I obtained my Bachelor's degree from **Wuhan University**.
 
-My research interests include **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**. I enjoy identifying issues in models and improving them through post-training, reinforcement learning, and other methods. Recently, I have been focusing on enhancing the reasoning capabilities of LLMs and VLMs while mitigating hallucination.
+My research interests include **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**. Recently, I have been focusing on enhancing the reasoning capabilities of LLMs and VLMs while mitigating hallucination.
 
 # 🔥 News
 - *2025.5*: &nbsp;🎉🎉 Our paper *"Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains"* was accepted to **ACL 2025 Findings**! 
