@@ -56,5 +56,5 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 - *2024.01 – 2024.05*, [NIO Shanghai](https://www.nio.cn/), China.  
   Contributed to the development of the LLM framework **BI Agent**, primarily responsible for intent understanding, task routing, and reasoning using LLMs.  
 
-- *2024.01 – Present*, [Baidu](https://ir.baidu.com/company-overview), China.  
+- *2025.05 – Present*, [Baidu](https://ir.baidu.com/company-overview), China.  
   Participated in pre-training of **search LLM** and post-training with reinforcement learning for **query rewriting LLM**. Primarily focused on *compressing LLM chains of thought* to reduce inference time for query rewriting LLM.
