@@ -40,7 +40,7 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
   *In Proc. of ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**).*
   
 # ✏️ Preprints
-- [Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information](https://export.arxiv.org/abs/2505.23558)
+- [Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information](https://arxiv.org/abs/2505.23558)
 
   **Xu Chu**\*, Xinrong Chen\*, Guanyu Wang\*, Zhijie Tan, Kui Huang, Wenyu Lv, Tong Mo, Weiping Li
 
