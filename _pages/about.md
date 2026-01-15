@@ -19,12 +19,12 @@ redirect_from:
 
 I am currently a second-year Master's student in **Software Engineering** at **Peking University**. Prior to this, I obtained my Bachelor's degree from **Wuhan University**.
 
-My research interests include **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**. Recently, I have been focusing on enhancing the reasoning capabilities of LLMs and VLMs while mitigating hallucination.
+My research interests include **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**. Recently, I have been focusing on enhancing the reasoning capabilities of LLMs and VLMs, as well as optimizing tool-calling capabilities and accuracy.
 
 # 🔥 News
+- *2026.1*: &nbsp;🎉🎉 Our paper *"Accurate and Efficient Personalized Query Rewriting in Baidu Search"* was accepted to **WWW 2026**!
+
 - *2025.5*: &nbsp;🎉🎉 Our paper *"Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains"* was accepted to **ACL 2025 Findings**! 
-- *2024.12*: &nbsp;🎉🎉 Our paper *"Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning"* was accepted to **ICASSP 2025**!
-- *2024.12*: &nbsp;🎉🎉 Our paper *"Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions"* was accepted to **ICASSP 2025**!
 
 # 📝 Selected Publications 
 - [Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains](https://arxiv.org/abs/2501.14431) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
@@ -60,5 +60,8 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 - *2024.01 – 2024.05*, [NIO Shanghai](https://www.nio.cn/), China.  
   Contributed to the development of the LLM framework **BI Agent**, primarily responsible for intent understanding, task routing, and reasoning using LLMs.  
 
-- *2025.04 – Present*, [Baidu](https://ir.baidu.com/company-overview), China.  
-  Participated in pre-training of **search LLM** and post-training with reinforcement learning for **query rewriting LLM**. Primarily focused on *compressing LLM chains of thought* to reduce inference time for query rewriting LLM.
+- *2025.04 – 2026.01*, [Baidu](https://ir.baidu.com/company-overview), China.  
+  During the summer internship, I received the Xinghai Talent Program. I participated in the pre-training of **Search LLM** and the reinforcement learning post-training of **Query Rewriting LLM**. My main focus was on compressing LLM chain-of-thought to reduce the inference time of the query rewriting LLM.
+
+- *2026.01 – present*, [Xiaomi](https://www.mi.com/about), China.  
+  I received the Top Campus Talent Program from Xiaomi's LLM team during the fall recruitment. I will participate in optimizing the reinforcement learning training strategies for **DeepResearch** and **GUI Agent** during my internship and full-time employment.
