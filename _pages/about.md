@@ -70,4 +70,4 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
   During the summer internship, I received the Xinghai Talent Program. I participated in the pre-training of **Search LLM** and the reinforcement learning post-training of **Query Rewriting LLM**. My main focus was on compressing LLM chain-of-thought to reduce the inference time of the query rewriting LLM.
 
 - *2026.01 – present*, [Xiaomi](https://www.mi.com/about), China.  
-  I received the Top Campus Talent Program from Xiaomi's LLM team during the fall recruitment. I will participate in optimizing the reinforcement learning training strategies for **DeepResearch** and **GUI Agent** during my internship and full-time employment.
+  I received the **Top Campus Talent Program** from **Xiaomi's LLM team** during the fall recruitment. I will participate in optimizing the reinforcement learning training strategies for **DeepResearch** and **GUI Agent** during my internship and full-time employment.
