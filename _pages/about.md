@@ -73,4 +73,6 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
   I received the **Top Campus Talent Program** from **Xiaomi's LLM team** during the fall recruitment. I will participate in optimizing the reinforcement learning training strategies for **DeepResearch** and **GUI Agent** during my internship and full-time employment.
 
 # 🗺️ Visitors
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=fl_HDgX7lkuSWn6QYJoaJF8FaFMbogf5bOyraPFV6P8&cl=ffffff&w=a"></script>
+<div style="width: 300px; margin: 0 auto;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fl_HDgX7lkuSWn6QYJoaJF8FaFMbogf5bOyraPFV6P8"></script>
+</div>
