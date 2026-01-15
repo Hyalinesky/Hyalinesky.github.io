@@ -27,6 +27,12 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 - *2025.5*: &nbsp;🎉🎉 Our paper *"Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains"* was accepted to **ACL 2025 Findings**! 
 
 # 📝 Selected Publications 
+- Accurate and Efficient Personalized Query Rewriting in Baidu Search ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![WWW](https://img.shields.io/badge/WWW-2026-blue?style=flat-square)
+
+  **Xu Chu**, Angela Li, Jiaming Zhang, Wei Li, Zhijie Tan, Dawei Yin, Shuaiqiang Wang, Daiting Shi
+
+  *In Proc. of The 35th International World Wide Web Conference (**WWW**).*
+
 - [Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains](https://arxiv.org/abs/2501.14431) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
 
   **Xu Chu**\*, Zhijie Tan\*, Hanlin Xue, Guanyu Wang, Tong Mo, Weiping Li
