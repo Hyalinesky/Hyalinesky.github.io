@@ -71,3 +71,8 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 
 - *2026.01 – present*, [Xiaomi](https://www.mi.com/about), China.  
   I received the **Top Campus Talent Program** from **Xiaomi's LLM team** during the fall recruitment. I will participate in optimizing the reinforcement learning training strategies for **DeepResearch** and **GUI Agent** during my internship and full-time employment.
+
+# 🗺️ Visitors
+<div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
+    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5y3j67s4x1s&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+</div>
