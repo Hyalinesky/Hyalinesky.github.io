@@ -22,6 +22,8 @@ I am currently a second-year Master's student in **Software Engineering** at **P
 My research interests include **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**. Recently, I have been focusing on enhancing the reasoning capabilities of LLMs and VLMs, as well as optimizing tool-calling capabilities and accuracy.
 
 # 🔥 News
+- *2026.2*: &nbsp;🎉🎉 Our paper *"Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance"* was accepted to **CVPR 2026**!
+
 - *2026.1*: &nbsp;🎉🎉 Our paper *"Accurate and Efficient Personalized Query Rewriting in Baidu Search"* was accepted to **WWW 2026**!
 
 - *2025.5*: &nbsp;🎉🎉 Our paper *"Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains"* was accepted to **ACL 2025 Findings**! 
@@ -32,6 +34,12 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
   **Xu Chu**, Angela Li, Jiaming Zhang, Wei Li, Zhijie Tan, Dawei Yin, Shuaiqiang Wang, Daiting Shi
 
   *In Proc. of The 35th International World Wide Web Conference (**WWW**).*
+
+- [Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance](https://arxiv.org/html/2602.01047v2) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![WWW](https://img.shields.io/badge/CVPR-2026-blue?style=flat-square)
+
+  Xinrong Chen\*, **Xu Chu**\*, Yingmin Qiu, Hengyuan Zhang, Jing Xiong, Shiyu Tang, Shuai Liu, Shaokang Yang, Cheng Yang, Hayden Kwok-Hay So, Ngai Wong
+
+  *In Proc. of The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (**CVPR**).*
 
 - [Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains](https://arxiv.org/abs/2501.14431) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
 
