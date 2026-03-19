@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student in **Software Engineering** at **Peking University**. Prior to this, I obtained my Bachelor's degree from **Wuhan University**.
+I am currently a third-year Master's student in **Software Engineering** at **Peking University**. Prior to this, I obtained my Bachelor's degree from **Wuhan University**.
 
 My research interests include **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**. Recently, I have been focusing on enhancing the reasoning capabilities of LLMs and VLMs, as well as optimizing tool-calling capabilities and accuracy.
 
