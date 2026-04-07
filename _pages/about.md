@@ -17,18 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Master's student in **Software Engineering** at **Peking University**. Prior to this, I obtained my Bachelor's degree from **Wuhan University**.
+I am currently a third-year Master's student in **Software Engineering** at **Peking University**. I have published **8 papers** at conferences such as *ACL*, *WWW*, and *CVPR*, including first-author and co-first-author papers. Prior to this, I obtained my Bachelor's degree from **Wuhan University**.
 
 My research interests include **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**. Recently, I have been focusing on enhancing the reasoning capabilities of LLMs and VLMs, as well as optimizing tool-calling capabilities and accuracy.
 
 # 🔥 News
+- *2026.4*: &nbsp;🎉🎉 We have **3** papers accepted to the **ACL 2026 main conference**.!
+
 - *2026.2*: &nbsp;🎉🎉 Our paper *"Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance"* was accepted to **CVPR 2026**!
 
 - *2026.1*: &nbsp;🎉🎉 Our paper *"Accurate and Efficient Personalized Query Rewriting in Baidu Search"* was accepted to **WWW 2026**!
 
-- *2025.5*: &nbsp;🎉🎉 Our paper *"Domain$o1$s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains"* was accepted to **ACL 2025 Findings**! 
 
 # 📝 Selected Publications 
+- Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
+
+  **Xu Chu**, Guanyu Wang, Zhijie Tan, Xinrong Chen, Ziyu Li, Tong Mo, Weiping Li
+
+  *In Proc. of The 64rd Annual Meeting of the Association for Computational Linguistics (**ACL**).*
+
+- RADO: Reasoning Audit-Driven Optimization for Rigorous Reasoning in High-Stakes Domains ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
+
+  Zhijie Tan\*, **Xu Chu**\*, Guanyu Wang, Ziyu Li, Weiping Li, Tong Mo
+
+  *In Proc. of The 64rd Annual Meeting of the Association for Computational Linguistics (**ACL**).*
+
+- MuSe: Multi-Stage Graph Reasoning via Vision-Language Models ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
+
+  Guanyu Wang\*, **Xu Chu**\*, Zhijie Tan, Xinrong Chen, Tong Mo, Weiping Li
+
+  *In Proc. of The 64rd Annual Meeting of the Association for Computational Linguistics (**ACL**).*
+
 - Accurate and Efficient Personalized Query Rewriting in Baidu Search ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![WWW](https://img.shields.io/badge/WWW-2026-blue?style=flat-square)
 
   **Xu Chu**, Angela Li, Jiaming Zhang, Wei Li, Zhijie Tan, Dawei Yin, Shuaiqiang Wang, Daiting Shi
