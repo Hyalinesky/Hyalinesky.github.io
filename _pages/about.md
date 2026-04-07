@@ -30,19 +30,19 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 
 
 # 📝 Selected Publications 
-- Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
+- Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2026-blue?style=flat-square)  
 
   **Xu Chu**, Guanyu Wang, Zhijie Tan, Xinrong Chen, Ziyu Li, Tong Mo, Weiping Li
 
   *In Proc. of The 64rd Annual Meeting of the Association for Computational Linguistics (**ACL**).*
 
-- RADO: Reasoning Audit-Driven Optimization for Rigorous Reasoning in High-Stakes Domains ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
+- RADO: Reasoning Audit-Driven Optimization for Rigorous Reasoning in High-Stakes Domains ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2026-blue?style=flat-square)  
 
   Zhijie Tan\*, **Xu Chu**\*, Guanyu Wang, Ziyu Li, Weiping Li, Tong Mo
 
   *In Proc. of The 64rd Annual Meeting of the Association for Computational Linguistics (**ACL**).*
 
-- MuSe: Multi-Stage Graph Reasoning via Vision-Language Models ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2025-blue?style=flat-square)  
+- MuSe: Multi-Stage Graph Reasoning via Vision-Language Models ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![ACL](https://img.shields.io/badge/ACL-2026-blue?style=flat-square)  
 
   Guanyu Wang\*, **Xu Chu**\*, Zhijie Tan, Xinrong Chen, Tong Mo, Weiping Li
 
