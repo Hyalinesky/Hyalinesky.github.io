@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Master's student in **Software Engineering** at **Peking University**. I have published **8 papers** at conferences such as *ACL*, *WWW*, and *CVPR*, including first-author and co-first-author papers. Prior to this, I obtained my Bachelor's degree from **Wuhan University**.
+I am a third-year Master's student in Software Engineering at **Peking University**, advised by Professor Li Weiping. To date, I have published **8 papers** (as first author or co-first author) at top-tier venues including **ACL, WWW, and CVPR**. I am currently working at **Xiaohongshu Pevek Foundation Model Team**, where my research focuses on post-training and reinforcement learning for search foundation models.
 
-My research interests include **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**. Recently, I have been focusing on enhancing the reasoning capabilities of LLMs and VLMs, as well as optimizing tool-calling capabilities and accuracy.
+Research Interests: My primary research areas include Large Language Models (LLMs) and Vision-Language Models (VLMs). Over the past year, I have been dedicated to enhancing the reasoning capabilities of LLMs and VLMs, as well as improving tool-calling ability and accuracy.
 
 # 🔥 News
 - *2026.4*: &nbsp;🎉🎉 We have **3** papers accepted to the **ACL 2026 main conference**.!
@@ -96,8 +96,8 @@ My research interests include **Large Language Models (LLMs)** and **Vision-Lang
 - *2025.04 – 2026.01*, [Baidu](https://ir.baidu.com/company-overview), China.  
   During the summer internship, I received the Xinghai Talent Program. I participated in the pre-training of **Search LLM** and the reinforcement learning post-training of **Query Rewriting LLM**. My main focus was on compressing LLM chain-of-thought to reduce the inference time of the query rewriting LLM.
 
-- *2026.01 – present*, [Xiaomi](https://www.mi.com/about), China.  
-  I received the **Top Campus Talent Program** from **Xiaomi's LLM team** during the fall recruitment. I will participate in optimizing the reinforcement learning training strategies for **DeepResearch** and **GUI Agent** during my internship and full-time employment.
+- *2026.04 – present*, Xiaohongshu, China.  
+  I received the offer of Xiaohongshu Pevek Foundation Model Team. Primarily responsible for research on post-training and reinforcement learning for search foundation models.
 
 # 🗺️ Visitors
 <div style="width: 300px; margin: 0 auto;">
