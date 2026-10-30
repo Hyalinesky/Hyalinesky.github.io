@@ -95,7 +95,7 @@ I am currently a researcher at the **Xiaohongshu Pevek Foundation Model Team**, 
   During the summer internship, I received the Xinghai Talent Program. I participated in the pre-training of **Search LLM** and the reinforcement learning post-training of **Query Rewriting LLM**. My main focus was on compressing LLM chain-of-thought to reduce the inference time of the query rewriting LLM.
 
 - *2026.04 – present*, Xiaohongshu, China.  
-  I am currently an Algorithm Engineer on the Pevek Foundation Model Team at Xiaohongshu (RED Note). My primary focus is on post-training foundation models to enhance their general-purpose and application-specific capabilities in **Search Agent** and **Cowork Agent scenarios**.
+  I am currently an Algorithm Engineer on the **Pevek** foundation model team at Xiaohongshu (RED Note). My primary focus is on post-training foundation models to enhance their general-purpose and application-specific capabilities in **Search Agent** and **Cowork Agent scenarios**.
 
 # 🗺️ Visitors
 <div style="width: 300px; margin: 0 auto;">
