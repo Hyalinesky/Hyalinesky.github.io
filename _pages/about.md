@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a researcher at the **Xiaohongshu Pevek Foundation Model Team**, where my research focuses on post-training and reinforcement learning for foundation models, with a particular emphasis on **Search agents** and **Cowork agents**. I received my M.S. degree in Software Engineering from **Peking University**, under the supervision of **Professor Li Weiping**. During my master's studies, I published **8 papers** as first author or co-first author at top-tier conferences, including **ACL, WWW, and CVPR**.
+I am currently a researcher at the **Xiaohongshu Pevek Foundation Model Team**, where my research focuses on post-training and reinforcement learning for foundation models, with a particular emphasis on **Search agents** and **Cowork agents**. I received my M.S. degree in Software Engineering from **Peking University**, under the supervision of **Professor Weiping Li**. During my master's studies, I published **8 papers** as first author or co-first author at top-tier conferences, including **ACL, WWW, and CVPR**.
 
 # 🔥 News
 - *2026.4*: &nbsp;🎉🎉 We have **3** papers accepted to the **ACL 2026 main conference**.!
