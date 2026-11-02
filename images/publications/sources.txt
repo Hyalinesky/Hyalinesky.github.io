@@ -1,0 +1,15 @@
+Publication figure provenance
+
+DGAO: Figure 2, original SVG from https://arxiv.org/html/2605.11974v1/dgao.svg
+RADO: Figure 2, cropped from page 3 of https://aclanthology.org/2026.acl-long.213.pdf
+MuSe: Figure 2, cropped from page 4 of https://aclanthology.org/2026.acl-long.476.pdf
+PicQue: explanatory schematic created for this homepage, based on the abstract of DOI 10.1145/3774904.3792815; NOT a figure reproduced from the paper. English and Chinese variants are provided. Publisher PDF access returned HTTP 403 during preparation.
+Residual Decoding: Figure 1, https://arxiv.org/html/2602.01047v2/intro2.png
+Domaino1s: Figure 1, https://arxiv.org/html/2501.14431v2/intro_v2.png
+STAA: Figure 3, https://arxiv.org/html/2501.10010v1/pic/STAA.png
+Qwen Look Again: Figure 3, https://arxiv.org/html/2505.23558v2/qwen_la.png
+GraphSOS: Figure 3, https://arxiv.org/html/2501.14427v3/Framework.png
+Order Matters: Figure 1, https://arxiv.org/html/2410.16983v1/pic/intro.png
+
+Figures remain attributable to the respective papers and their authors. Raster originals were resized for web delivery. Original English labels are preserved. Localized titles, summaries, topics and captions are provided alongside the figures.
+Paper authors, equal-contribution marks, publication groupings and acceptance dates follow the original homepage. Summaries are editorial paraphrases rather than abstract quotations. Chinese paper titles are reading aids, not official bibliographic titles.
