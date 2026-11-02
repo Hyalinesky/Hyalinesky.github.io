@@ -1,0 +1,22 @@
+<article class="publication" id="{{ paper.id }}">
+<figure class="paper-figure">
+<a class="figure-link" href="{{ '/images/publications/' | append: paper.image | relative_url }}" data-figure data-paper="{{ paper.id }}" data-title-en="{{ paper.title | escape }}" data-title-zh="{{ paper.title_zh | escape }}" data-caption-en="{{ paper.figure_note | escape }}" data-caption-zh="{{ paper.figure_note_zh | escape }}" aria-haspopup="dialog">
+{% if paper.id == 'picque' %}
+<img lang="en" src="{{ '/images/publications/picque-en.svg' | relative_url }}" alt="PicQue: hybrid supervised fine-tuning, GRPO with guided search, and direct query rewriting" loading="lazy" width="680" height="420">
+<img lang="zh-CN" src="{{ '/images/publications/picque-zh.svg' | relative_url }}" alt="PicQue 方法示意：混合监督微调、引导搜索辅助 GRPO、直接生成查询改写" loading="lazy" width="680" height="420">
+{% else %}
+<img src="{{ '/images/publications/' | append: paper.image | relative_url }}" alt="{{ paper.id }} — method overview from the paper / 论文方法概览" loading="lazy" decoding="async" width="680" height="420">
+{% endif %}
+<span class="figure-zoom" aria-hidden="true">↗</span>
+</a>
+<figcaption><span lang="en">{{ paper.figure_note }}</span><span lang="zh-CN">{{ paper.figure_note_zh }}</span></figcaption>
+</figure>
+<div class="paper-copy">
+<div class="paper-meta"><span class="venue{% if paper.preprint %} venue-preprint{% endif %}">{% if paper.preprint %}<span lang="en">Preprint</span><span lang="zh-CN">预印本</span>{% else %}{{ paper.venue }}{% endif %} {{ paper.year }}</span><span class="paper-topic"><span lang="en">{{ paper.topic }}</span><span lang="zh-CN">{{ paper.topic_zh }}</span></span></div>
+<h3><a href="{{ paper.paper }}" target="_blank" rel="noopener noreferrer"><span lang="en">{{ paper.title }}</span><span lang="zh-CN">{{ paper.title_zh }}</span></a></h3>
+<p class="paper-authors">{{ paper.authors | escape | replace: 'Xu Chu', '<strong>Xu Chu</strong>' }}</p>
+<p class="paper-summary"><span lang="en">{{ paper.summary }}</span><span lang="zh-CN">{{ paper.summary_zh }}</span></p>
+<div class="paper-links"><a href="{{ paper.paper }}" target="_blank" rel="noopener noreferrer"><span lang="en">Paper</span><span lang="zh-CN">论文</span> ↗</a><a href="{{ paper.pdf }}" target="_blank" rel="noopener noreferrer">PDF ↗</a>{% if paper.code != '' %}<a href="{{ paper.code }}" target="_blank" rel="noopener noreferrer"><span lang="en">Code</span><span lang="zh-CN">代码</span> ↗</a>{% endif %}</div>
+<details class="citation-title" lang="zh-CN"><summary>英文原题</summary><p lang="en" class="original-title">{{ paper.title }}</p></details>
+</div>
+</article>

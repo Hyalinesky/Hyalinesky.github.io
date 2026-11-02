@@ -1,0 +1,49 @@
+<section id="about-me" class="hero">
+<div class="hero-copy">
+<p class="eyebrow"><span lang="en">Research · Foundation models & agents</span><span lang="zh-CN">研究 · 基础模型与智能体</span></p>
+<h1>Xu Chu</h1>
+<p class="hero-role"><span lang="en">Algorithm Engineer · Xiaohongshu Pevek</span><span lang="zh-CN">算法工程师 · 小红书 Pevek 基础模型团队</span></p>
+<div class="bio" lang="en">
+<p>I work on <strong>post-training and reinforcement learning</strong> for foundation models at Xiaohongshu, with a focus on <strong>Search agents and Cowork agents</strong>.</p>
+<p>I received my M.S. in Software Engineering from <strong>Peking University</strong>, advised by Prof. Weiping Li. My research explores how to make models reason more reliably, use visual and structural evidence, and search more efficiently.</p>
+</div>
+<div class="bio" lang="zh-CN">
+<p>我目前就职于<strong>小红书 Pevek 基础模型团队</strong>，主要研究基础模型的<strong>后训练与强化学习</strong>，重点关注 <strong>Search Agent 与 Cowork Agent</strong>。</p>
+<p>我硕士毕业于<strong>北京大学软件工程专业</strong>，师从李未平教授。我的研究关注如何让模型进行更可靠的推理、更好地利用视觉与结构信息，并提升搜索效率。</p>
+</div>
+<div class="contact-links"><a href="mailto:{{ site.author.email }}"><span lang="en">Email</span><span lang="zh-CN">邮箱</span> ↗</a><a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer">Google Scholar ↗</a><a href="https://github.com/Hyalinesky" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="{{ site.author.dblp }}" target="_blank" rel="noopener noreferrer">DBLP ↗</a></div>
+</div>
+<figure class="portrait"><img src="{{ site.author.avatar | relative_url }}" width="220" height="220" alt="Xu Chu"><figcaption><span lang="en">Beijing, China</span><span lang="zh-CN">中国 · 北京</span><br><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></figcaption></figure>
+</section>
+<section id="news" class="news-section">
+<div class="section-heading"><h2><span lang="en">News</span><span lang="zh-CN">近期动态</span></h2><span class="section-index">01</span></div>
+<ul class="news-list">
+<li><time datetime="2026-04">2026.04</time><span lang="en">Three papers accepted to <strong>ACL 2026</strong>: <a href="#dgao">DGAO</a>, <a href="#rado">RADO</a>, and <a href="#muse">MuSe</a>.</span><span lang="zh-CN">三篇论文被 <strong>ACL 2026 主会</strong>接收：<a href="#dgao">DGAO</a>、<a href="#rado">RADO</a> 和 <a href="#muse">MuSe</a>。</span></li>
+<li><time datetime="2026-02">2026.02</time><span lang="en"><a href="#resdec">Residual Decoding</a> accepted to <strong>CVPR 2026</strong>.</span><span lang="zh-CN"><a href="#resdec">残差解码</a>被 <strong>CVPR 2026</strong> 接收。</span></li>
+<li><time datetime="2026-01">2026.01</time><span lang="en">Our work on <a href="#picque">personalized query rewriting</a> accepted to <strong>WWW 2026</strong>.</span><span lang="zh-CN"><a href="#picque">个性化查询改写</a>论文被 <strong>WWW 2026</strong> 接收。</span></li>
+</ul>
+</section>
+<section id="publications" class="publications-section">
+<div class="section-heading"><h2><span lang="en">Selected publications</span><span lang="zh-CN">精选论文</span></h2><span class="section-index">02</span></div>
+<p class="section-intro"><span lang="en">Reliable reasoning, multimodal understanding, and efficient search.</span><span lang="zh-CN">探索可靠推理、多模态理解与高效搜索。</span></p>
+<p class="publication-note"><span lang="en">* Equal contribution. Click any figure to enlarge.</span><span lang="zh-CN">* 表示共同贡献。点击方法图可放大查看。</span></p>
+{% for paper in site.data.publications %}{% unless paper.preprint %}{% include research-paper.html %}{% endunless %}{% endfor %}
+</section>
+<section id="preprints">
+<div class="section-heading"><h2><span lang="en">Preprints</span><span lang="zh-CN">预印本</span></h2><span class="section-index">03</span></div>
+{% for paper in site.data.publications %}{% if paper.preprint %}{% include research-paper.html %}{% endif %}{% endfor %}
+</section>
+<section id="experience">
+<div class="section-heading"><h2><span lang="en">Experience</span><span lang="zh-CN">工作与实习经历</span></h2><span class="section-index">04</span></div>
+<div class="timeline">
+<div class="timeline-entry"><p class="timeline-date"><span lang="en">2026.04 – Present</span><span lang="zh-CN">2026.04 – 至今</span></p><div><h3><span lang="en">Xiaohongshu · Pevek Foundation Model Team</span><span lang="zh-CN">小红书 · Pevek 基础模型团队</span></h3><p class="entry-role"><span lang="en">Algorithm Engineer</span><span lang="zh-CN">算法工程师</span></p><p><span lang="en">Post-training foundation models for general and task-specific capabilities in Search Agent and Cowork Agent scenarios.</span><span lang="zh-CN">面向 Search Agent 与 Cowork Agent 场景开展基础模型后训练，提升模型的通用能力和任务能力。</span></p></div></div>
+<div class="timeline-entry"><p class="timeline-date">2025.04 – 2026.01</p><div><h3><a href="https://ir.baidu.com/company-overview" target="_blank" rel="noopener noreferrer"><span lang="en">Baidu</span><span lang="zh-CN">百度</span> ↗</a></h3><p class="entry-role"><span lang="en">Research Intern · Xinghai Talent Program</span><span lang="zh-CN">研究实习生 · 星海人才计划</span></p><p><span lang="en">Search LLM pre-training and reinforcement learning for query rewriting, with a focus on compressing chain-of-thought to reduce inference latency.</span><span lang="zh-CN">参与搜索大模型预训练与查询改写模型的强化学习后训练，重点研究思维链压缩以降低推理延迟。</span></p></div></div>
+<div class="timeline-entry"><p class="timeline-date">2024.01 – 2024.05</p><div><h3><a href="https://www.nio.cn/" target="_blank" rel="noopener noreferrer"><span lang="en">NIO · Shanghai</span><span lang="zh-CN">蔚来 · 上海</span> ↗</a></h3><p class="entry-role"><span lang="en">Intern · BI Agent</span><span lang="zh-CN">实习生 · BI Agent</span></p><p><span lang="en">Intent understanding, task routing, and LLM-based reasoning for the BI Agent framework.</span><span lang="zh-CN">参与 BI Agent 框架开发，负责意图理解、任务路由与基于大语言模型的推理。</span></p></div></div>
+</div>
+</section>
+<section id="education">
+<div class="section-heading"><h2><span lang="en">Education</span><span lang="zh-CN">教育背景</span></h2><span class="section-index">05</span></div>
+<div class="timeline"><div class="timeline-entry"><p class="timeline-date"><span lang="en">From 2023.09</span><span lang="zh-CN">2023.09 入学</span></p><div><h3><span lang="en">Peking University</span><span lang="zh-CN">北京大学</span></h3><p><span lang="en">M.S., Software Engineering · Advisor: Prof. Weiping Li</span><span lang="zh-CN">软件工程硕士 · 导师：李未平教授</span></p></div></div>
+<div class="timeline-entry"><p class="timeline-date">2019.09 – 2023.07</p><div><h3><span lang="en">Wuhan University</span><span lang="zh-CN">武汉大学</span></h3><p><span lang="en">B.Eng., School of Electronic Information</span><span lang="zh-CN">电子信息学院 · 工学学士</span></p></div></div></div>
+</section>
+<section class="visitors-section" aria-label="Visitors / 访客"><details><summary><span lang="en">Visitors around the world</span><span lang="zh-CN">来自世界各地的访客</span></summary><div class="visitor-globe"><script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=fl_HDgX7lkuSWn6QYJoaJF8FaFMbogf5bOyraPFV6P8" async></script></div></details></section>
