@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en" data-language="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | escape }}</title>
+<meta name="description" content="{{ page.excerpt | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="icon" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+<meta property="og:title" content="Xu Chu | Research">
+<meta property="og:description" content="Reliable reasoning, reinforcement learning, and search agents.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
+<script>
+(function () {
+  var choice = new URLSearchParams(location.search).get('lang');
+  if (choice !== 'en' && choice !== 'zh') {
+    try { choice = localStorage.getItem('homepage-language'); } catch (e) {}
+  }
+  var lang = choice === 'zh' ? 'zh' : 'en';
+  document.documentElement.dataset.language = lang;
+  document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
+})();
+</script>
+<script src="{{ '/assets/js/research.js' | relative_url }}" defer></script>
+{% include analytics.html %}
+</head>
+<body>
+<a class="skip-link" href="#about-me"><span lang="en">Skip to content</span><span lang="zh-CN">跳转到正文</span></a>
+<header class="site-header">
+<div class="header-inner">
+<a class="wordmark" href="#about-me">Xu Chu<span class="wordmark-dot">.</span></a>
+<nav aria-label="Main / 主导航">
+<a href="#publications"><span lang="en">Research</span><span lang="zh-CN">研究论文</span></a>
+<a href="#news"><span lang="en">News</span><span lang="zh-CN">动态</span></a>
+<a href="#experience"><span lang="en">Experience</span><span lang="zh-CN">经历</span></a>
+</nav>
+<div class="language-switch" role="group" aria-label="Language / 语言">
+<button type="button" data-set-language="en" lang="en" aria-pressed="true">EN</button>
+<button type="button" data-set-language="zh" lang="zh-CN" aria-pressed="false">中文</button>
+</div>
+</div>
+</header>
+<main class="site-main">{{ content }}</main>
+<footer class="site-footer"><span>© {{ site.time | date: '%Y' }} Xu Chu</span><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><a href="#about-me"><span lang="en">Back to top ↑</span><span lang="zh-CN">返回顶部 ↑</span></a></footer>
+<dialog class="figure-dialog" aria-labelledby="figure-dialog-title">
+<div class="dialog-toolbar"><p id="figure-dialog-title"></p><button type="button" class="close-dialog" autofocus><span lang="en">Close ×</span><span lang="zh-CN">关闭 ×</span></button></div>
+<div class="dialog-image-wrap"><img class="dialog-image" alt=""></div>
+<p class="dialog-caption"></p>
+</dialog>
+</body>
+</html>
