@@ -71,9 +71,9 @@
     "pdf": "https://dl.acm.org/doi/pdf/10.1145/3774904.3792815",
     "code": "",
     "preprint": false,
-    "image": "picque-en.svg",
-    "figure_note": "Method schematic · redrawn from the abstract",
-    "figure_note_zh": "根据论文摘要绘制的流程示意"
+    "image": "picque-figure2.png",
+    "figure_note": "Original paper figure · Figure 2",
+    "figure_note_zh": "论文原图 · 图 2"
   },
   {
     "id": "resdec",
