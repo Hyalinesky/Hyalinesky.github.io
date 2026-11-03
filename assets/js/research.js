@@ -20,7 +20,7 @@
     lang = lang === 'zh' ? 'zh' : 'en';
     root.dataset.language = lang;
     root.lang = lang === 'zh' ? 'zh-CN' : 'en';
-    document.title = lang === 'zh' ? 'Xu Chu | 研究主页' : 'Xu Chu | Research';
+    document.title = lang === 'zh' ? '褚旭 | 研究主页' : 'Xu Chu | Research';
     buttons.forEach(function (button) {
       button.setAttribute('aria-pressed', String(button.dataset.setLanguage === lang));
     });
