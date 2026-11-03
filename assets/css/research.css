@@ -136,6 +136,16 @@ section { scroll-margin-top: 20px; }
 .timeline-entry h3 a { text-decoration: none; }
 .timeline-entry p:not(.timeline-date) { font-size: .9rem; color: #5f5951; line-height: 1.85; }
 .timeline-entry .entry-role { font-size: .79rem !important; color: #99715c !important; margin: 3px 0 7px; }
+/* Education uses the same restrained gallery cards as the CV reference. */
+.education-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin-top: 24px; }
+.education-card { min-width: 0; padding: 23px 24px 25px; border: 1px solid var(--line); border-radius: 16px; background: #fff; box-shadow: 0 2px 0 #302f2b03, 0 5px 20px #302f2b03; }
+.education-card h3 { display: flex; align-items: baseline; gap: 12px; font-size: 1.17rem; line-height: 1.5; font-weight: 600; margin-bottom: 22px; }
+.education-icon { flex-shrink: 0; font-size: 1.2rem; }
+.education-card p + p { margin-top: 14px; }
+.education-school { display: table; max-width: 100%; padding: 1px 9px; border-radius: 5px; background: #eee3db; color: #6e5344; font-size: .96rem; line-height: 1.65; }
+.education-card:nth-child(2) .education-school { background: #eeedeb; color: #625e57; }
+.education-date { font-size: .94rem; font-variant-numeric: tabular-nums; }
+.education-detail { font-size: .96rem; color: #5f5951; line-height: 1.75; }
 .visitors-section { padding-top: 28px; color: var(--muted); font-size: .75rem; }
 .visitors-section summary { cursor: pointer; }
 .visitor-globe { width: 280px; max-width: 100%; margin: 20px auto; }
@@ -200,6 +210,9 @@ body.dialog-open { overflow: hidden; }
   .timeline-entry { display: flex; flex-direction: column; gap: 6px; padding: 17px 0; }
   .timeline-date { text-align: left; font-size: .8rem; }
   .timeline-entry p:not(.timeline-date) { font-size: .97rem; }
+  .education-grid { grid-template-columns: minmax(0, 1fr); gap: 18px; margin-top: 20px; }
+  .education-card { padding: 20px 21px 23px; border-radius: 14px; }
+  .education-card h3 { font-size: 1.2rem; margin-bottom: 20px; }
   .site-footer { padding: 28px 22px; margin-bottom: 0; font-size: .73rem; }
   .figure-dialog { padding: 15px; }
   .dialog-toolbar { gap: 12px; }
@@ -216,6 +229,8 @@ body.dialog-open { overflow: hidden; }
   h1 { font-size: 34pt; }
   .publication { grid-template-columns: 180px 1fr; break-inside: avoid; padding: 20px 0; }
   .figure-link img { height: 130px; }
+  .education-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .education-card { break-inside: avoid; box-shadow: none; }
   .site-footer { border: 0; margin: 0; padding: 20px 0; }
   a { color: inherit; }
 }
