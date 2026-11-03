@@ -136,6 +136,11 @@ section { scroll-margin-top: 20px; }
 .timeline-entry h3 a { text-decoration: none; }
 .timeline-entry p:not(.timeline-date) { font-size: .9rem; color: #5f5951; line-height: 1.85; }
 .timeline-entry .entry-role { font-size: .79rem !important; color: #99715c !important; margin: 3px 0 7px; }
+.experience-heading { display: flex; align-items: center; gap: 14px; margin-bottom: 12px; }
+.experience-heading > div { min-width: 0; }
+.company-logo { display: flex; align-items: center; justify-content: center; flex: 0 0 48px; width: 48px; height: 48px; padding: 7px; border: 1px solid var(--line); border-radius: 10px; background: #fff; }
+.company-logo img { display: block; width: 34px; height: 34px; object-fit: contain; }
+.timeline-entry .experience-heading .entry-role { margin-bottom: 0; }
 /* Education uses the same restrained gallery cards as the CV reference. */
 .education-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; margin-top: 24px; }
 .education-card { min-width: 0; padding: 23px 24px 25px; border: 1px solid var(--line); border-radius: 16px; background: #fff; box-shadow: 0 2px 0 #302f2b03, 0 5px 20px #302f2b03; }
