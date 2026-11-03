@@ -1,0 +1,5 @@
+Company icons used to identify employment history. Brand marks remain attributable to their respective owners.
+
+Xiaohongshu: apple-touch-icon linked by https://www.xiaohongshu.com/ (https://picasso-static.xiaohongshu.com/fe-platform/f43dc4a8baf03678996c62d8db6ebc01a82256ff.png).
+Baidu: https://www.baidu.com/favicon.ico (64px icon converted to PNG).
+NIO: https://commons.wikimedia.org/wiki/File:NIO_logo_emblem.svg ; original emblem attributed to NIO, vectorization unknown, page marks the simple logo as PD-textlogo. Original SVG: https://upload.wikimedia.org/wikipedia/commons/3/30/NIO_logo_emblem.svg . Official site was inaccessible during preparation.
